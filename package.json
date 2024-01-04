@@ -1,6 +1,6 @@
 {
   "name": "diff-modules",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Compares the versions of packages within two node_modules directories",
   "main": "./bin/index.js",
   "type": "module",
